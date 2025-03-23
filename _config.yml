@@ -1,4 +1,7 @@
 theme: minima
+minima:
+  include:
+    - /assets/css/custom.css
 markdown: kramdown
 kramdown:
   input: GFM
