@@ -1,17 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     {% include head.html %}
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <style>
+      .container {
+        display: flex;
+        flex-direction: column;
+      }
+      .header {
+        margin-bottom: 10px;
+      }
+      .main-content {
+        display: flex;
+        align-items: flex-start;
+      }
+      .vertical-bar {
+        width: 1px;
+        background-color: #000;
+        margin: 0 10px;
+      }
+      .nav {
+        flex-shrink: 0;
+        margin-right: 10px;
+      }
+      .content {
+        flex-grow: 1;
+      }
+    </style>
   </head>
   <body>
     <div class="container">
-      {% include nav.html %}
-      <hr class="stylish"/>
-        {{ content }}
+      <div class="header">
+        {% include header.html %}
+      </div>
+      <div class="main-content">
+        <div class="nav">
+          {% include nav.html %}
+        </div>
+        <div class="vertical-bar"></div>
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
     </div>
-    <main>
-      {{ content }}
-    </main>
   </body>
 </html>
