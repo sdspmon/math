@@ -6,9 +6,11 @@ title: "Projects"
 # Projects
 
 {% for project in site.projects %}
-## {{ project.title }}
-{{ project.content }}
+  {% if project.path != 'projects/index.md' %}
+    ## {{ project.title }}
+    {{ project.content }}
 
-[Read more]({{ project.url }})
+[Read more]({{ project.url | relative_url }})
 ---
+  {% endif %}
 {% endfor %}
