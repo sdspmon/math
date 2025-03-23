@@ -5,9 +5,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   </head>
   <body>
-    <header>
+    <div class="container">
       {% include nav.html %}
-    </header>
+      <hr class="stylish"/>
+        {{ content }}
+    </div>
     <main>
       {{ content }}
     </main>
