@@ -1,28 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    {% include head.html %}
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-    {{ content_for_head }}
-    {{ site.head }}
   </head>
   <body>
     <header>
-      <nav>
-        <ul>
-          <li><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-          <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-        </ul>
-      </nav>
+      {% include nav.html %}
     </header>
     <main>
       {{ content }}
     </main>
-    <footer>
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}</p>
-    </footer>
   </body>
 </html>
