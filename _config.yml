@@ -1,4 +1,4 @@
-theme: jekyll-theme-elementary
+theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
