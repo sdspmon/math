@@ -2,11 +2,12 @@ title: "Personal Webpage"
 author: "SD"
 baseurl: "/Sdsp-math"
 url: "https://sdspmon.github.io"
-# theme: minima
-# minima:
-#  include:
-#    - /assets/css/custom.css
 javascript_enabled: true
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 markdown: kramdown
 kramdown:
   input: GFM
@@ -18,3 +19,7 @@ collections:
     output: true
   talks:
     output: true
+# theme: minima
+# minima:
+#  include:
+#    - /assets/css/custom.css
