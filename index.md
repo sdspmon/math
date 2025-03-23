@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Website title
 ---
 
 I am a French Mathematician based in Paris.
