@@ -3,9 +3,12 @@ layout: main
 title: "Projects"
 ---
 
+# Projects
+
 {% for project in site.projects %}
-  {% if project.path contains "_projects/" and project.path != "_projects/index.md" %}
-    - [{{ project.title }}]({{site.url}}{{ site.baseurl }}/{{ project.path }})
-    {% link _projects/project1.md %}
-  {% endif %}
+## {{ project.title }}
+{{ project.content }}
+
+[Read more]({{ project.url }})
+---
 {% endfor %}
