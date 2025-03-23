@@ -1,3 +1,7 @@
+title: "Personal Webpage"
+author: "SD"
+baseurl: "/Sdsp-math"
+url: "https://sdspmon.github.io"
 theme: minima
 minima:
   include:
