@@ -2,6 +2,7 @@ theme: minima
 minima:
   include:
     - /assets/css/custom.css
+javascript_enabled: true
 markdown: kramdown
 kramdown:
   input: GFM
