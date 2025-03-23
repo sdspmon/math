@@ -5,7 +5,7 @@ title: "Talks"
 # Talks
 
 {% for talk in site.talks %}
-  {% if talk.path != 'talks/index.md' %}
+  {% if talk.url != '/talks/index/' %}
     ## {{ talk.title }}
     {{ talk.content }}
 
