@@ -3,7 +3,7 @@ I am a French Mathematician based in Paris.
 
 ### Contact
 
-[mail](mailto:sophiedespalungue@hotmail.fr)
+* Email: (mailto:sophiedespalungue@hotmail.fr)
 
 ### Interests
 
