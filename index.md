@@ -5,10 +5,10 @@ title: "Home"
 
 I am a French Mathematician based in Paris.
 
-## Contact
+### Contact
 
-* Email: (mailto:sophiedespalungue@hotmail.fr)
+* [Mail](mailto:sophiedespalungue@hotmail.fr)
 
 ### Interests
 
-Category Theory, Monoidal Structures, $$E_n$$-structures, Operads, Formalization of mathematics
+Category Theory, Monoidal Structures, $E_n$-structures, Operads, Formalization of mathematics
