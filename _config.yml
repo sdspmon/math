@@ -2,10 +2,10 @@ title: "Personal Webpage"
 author: "SD"
 baseurl: "/Sdsp-math"
 url: "https://sdspmon.github.io"
-theme: minima
-minima:
-  include:
-    - /assets/css/custom.css
+# theme: minima
+#minima:
+#  include:
+#    - /assets/css/custom.css
 javascript_enabled: true
 markdown: kramdown
 kramdown:
