@@ -6,7 +6,7 @@ title: "Projects"
 # Projects
 
 {% for project in site.projects %}
-  {% if project.path != 'projects/index.md' %}
+  {% if project.path != '_projects/index.md' %}
     ## {{ project.title }}
     {{ project.content }}
 
