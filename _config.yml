@@ -17,8 +17,10 @@ kramdown:
 collections:
   projects:
     output: true
+    permalink: /projects/:name/
   talks:
     output: true
+    permalink: /talks/:name/
 # theme: minima
 # minima:
 #  include:
