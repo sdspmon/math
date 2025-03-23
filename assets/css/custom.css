@@ -5,3 +5,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Copperplate', 'Copperplate Gothic Light', fantasy;
 }
+.site-header {
+  text-align: center;
+  font-family: 'Copperplate', 'Copperplate Gothic Light', fantasy;
+  margin: 20px 0;
+}
