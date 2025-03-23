@@ -5,10 +5,11 @@ title: "Talks"
 # Talks
 
 {% for talk in site.talks %}
-## {{ talk.title }}
-{{ talk.content }}
+  {% if talk.path != 'talks/index.md' %}
+    ## {{ talk.title }}
+    {{ talk.content }}
 
-[Read more]({{ talk.url }})
+[Read more]({{ talk.url | relative_url }})
 ---
+  {% endif %}
 {% endfor %}
-
