@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 
 I am a French Mathematician based in Paris.
 
