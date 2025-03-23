@@ -7,4 +7,4 @@ I am a French Mathematician based in Paris.
 
 ### Interests
 
-Category Theory, Monoidal Structures, $$E_n$$ algebras, Operads, Formalization of mathematics
+Category Theory, Monoidal Structures, $$E_n$$-structures, Operads, Formalization of mathematics
