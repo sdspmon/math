@@ -1,14 +1,15 @@
 ---
 layout: main
 title: "Projects"
+permalink: /projects/
 ---
 
 # Projects
 
 {% for project in site.projects %}
-  {% if project.url != '/projects/index/' %}
-    ## {{ project.title }}
-    {{ project.content }}
+  {% if project.url != '/projects/' %}
+  ## {{ project.title }}
+  {{ project.content }}
 
 [Read more]({{ project.url | relative_url }})
 ---
