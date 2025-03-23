@@ -1,12 +1,11 @@
 ---
 layout: main
 title: "Talks" 
-permalink: /talks/
 ---
 # Talks
 
 {% for talk in site.talks %}
-  {% if talk.url != '/talks/' %}
+  {% if talk.url != '/talks/index' %}
   ## {{ talk.title }}
   {{ talk.content }}
 
