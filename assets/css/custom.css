@@ -34,10 +34,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Main content area */
 .main-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
+  width: 100%;
+  max-width: 800px; /* Ensures readable text width */
+  margin: 0 auto; /* Centers the content */
+  padding: 20px;
 }
 
 /* Horizontal separator */
