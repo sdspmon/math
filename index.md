@@ -1,10 +1,10 @@
 
 I am a French Mathematician based in Paris.
 
-###Contact
+### Contact
 
 sophiedespalungue@hotmail.fr
 
-##Interests
+## Interests
 
 Category Theory, Monoidal Structures, E_n algebras, Operads, Formalization of mathematics
