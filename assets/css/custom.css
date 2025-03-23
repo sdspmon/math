@@ -5,8 +5,45 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Copperplate', 'Copperplate Gothic Light', fantasy;
 }
+/* Center the header and set the font to Copperplate */
 .site-header {
   text-align: center;
   font-family: 'Copperplate', 'Copperplate Gothic Light', fantasy;
   margin: 20px 0;
+}
+
+/* Flexbox container to center all content */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+}
+
+/* Header margin bottom */
+.header {
+  margin-bottom: 10px;
+}
+
+/* Main content flexbox to align items */
+.main-content {
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Vertical bar styling */
+.vertical-bar {
+  width: 1px;
+  background-color: #000;
+  margin: 0 10px;
+}
+
+/* Navigation menu */
+.nav {
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+/* Main content area */
+.content {
+  flex-grow: 1;
 }
