@@ -1,4 +1,4 @@
-theme: minima
+theme: elementary
 markdown: kramdown
 kramdown:
   input: GFM
