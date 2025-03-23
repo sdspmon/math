@@ -1,7 +1,7 @@
 
 I am a French Mathematician based in Paris.
 
-### Contact
+## Contact
 
 * Email: (mailto:sophiedespalungue@hotmail.fr)
 
