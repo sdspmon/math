@@ -1,5 +1,5 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Verdana', sans-serif;
     line-height: 1.6;
     text-align: justify;
     color: #333;
@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Navigation menu */
 .nav {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Responsive navigation */
