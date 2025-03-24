@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
     margin: 10px 0; /* Reduced margin for smaller header */
     padding: 5px; /* Optional: add padding if needed */
-    font-size: 1.5em; /* Optional: adjust font size if needed */
+    font-size: 1em; /* Optional: adjust font size if needed */
 }
 
 /* Flexbox container */
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 .header {
-    margin-bottom: 10px;
+    margin-bottom: 1px;
 }
 
 /* Main content area */
