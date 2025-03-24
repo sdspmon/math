@@ -1,5 +1,5 @@
 body {
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Verdana', serif;
     line-height: 1.6;
     text-align: justify;
     color: #333;
@@ -16,7 +16,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .site-header {
     text-align: center;
-    font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
+    font-family: 'Bebas Neue', sans-serif;
+    /*font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
     /*margin: 2px 0; /* Reduced margin for smaller header */
     padding: 4px; /* Optional: add padding if needed */
 }
