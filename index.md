@@ -5,9 +5,7 @@ title: "Home"
 
 I am a French Mathematician based in Paris.
 
-### Contact
-
-* [Mail](mailto:sophiedespalungue@hotmail.fr)
+* You can contact me by [email](mailto:sophiedespalungue@hotmail.fr)
 
 ### Interests
 
