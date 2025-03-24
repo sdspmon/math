@@ -10,8 +10,8 @@ body {
 
 h1 {
   font-family: 'Bebas Neue', sans-serif;
-  /*font-size: 3rem; /* Adjust size as needed */
-  /*font-weight: normal;*/
+  font-weight: 400;
+  font-style: normal;
   text-align: center; /* Or 'left' if you prefer */
 }
 
