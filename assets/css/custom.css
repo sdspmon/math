@@ -16,8 +16,8 @@ h1, h2, h3, h4, h5, h6 {
 .site-header {
     text-align: center;
     font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
-    margin: 4px 0; /* Reduced margin for smaller header */
-    padding: 5px; /* Optional: add padding if needed */
+    margin: 2px 0; /* Reduced margin for smaller header */
+    padding: 4px; /* Optional: add padding if needed */
     font-size: 0.8em; /* Optional: adjust font size if needed */
 }
 
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 1px;
     background-color: currentColor;
     opacity: 0.6;
-    margin: 9px 0;
+    margin: 6px 0;
 }
 
 /* Navigation menu */
