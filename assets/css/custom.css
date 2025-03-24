@@ -8,21 +8,27 @@ body {
     padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 3rem; /* Adjust size as needed */
+  font-weight: normal;
+  text-align: center; /* Or 'left' if you prefer */
+}
+
+h2, h3, h4, h5, h6 {
     font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
     margin-top: 1.2em;
     margin-bottom: 0.6em;
 }
 
-.site-header {
+/*.site-header {
     text-align: center;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 3rem; /* Adjust size as needed */
-    font-weight: normal;
-    /*font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
+    /*font-weight: normal;
     /*margin: 2px 0; /* Reduced margin for smaller header */
-    padding: 4px; /* Optional: add padding if needed */
-}
+    /*padding: 4px; /* Optional: add padding if needed */
+/*}
 
 /* Flexbox container */
 .container {
