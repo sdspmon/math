@@ -20,7 +20,7 @@ body {
 .header {
   display: flex;
   justify-content: flex-start;  /* Keeps title aligned to the left */
-  /*align-items: center;  /* Centers title vertically */
+  text-align: left;
   margin: 0 auto; /* Centers the content */
 }
 
