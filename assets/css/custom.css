@@ -33,7 +33,9 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-    font-family: 'Copperplate', 'Copperplate Gothic Light', serif;
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 400;
+  font-style: normal;
     margin-top: 1.2em;
     margin-bottom: 0.6em;
 }
