@@ -1,7 +1,7 @@
 title: "Sophie d'Espalungue"
 author: "Sophie d'Espalungue"
 description: "Sophie d'Espalungue | Personal Website"
-baseurl: "/Sdsp-math"
+baseurl: "/math"
 url: "https://sdspmon.github.io"
 javascript_enabled: true
 plugins:
