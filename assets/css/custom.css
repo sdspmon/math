@@ -22,7 +22,7 @@ body {
 /* Header Style */
 .header {
   width: 100%;
-  max-width: 800px; /* Ensures readable text width */
+  /*max-width: 800px; /* Ensures readable text width */
   margin: 0 auto; /* Centers the content */
   padding: 0px;
 }
