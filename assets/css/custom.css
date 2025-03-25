@@ -8,10 +8,29 @@ body {
     padding: 0;
 }
 
+/* Main content area */
+.main-content {
+  width: 100%;
+  max-width: 800px; /* Ensures readable text width */
+  margin: 0 auto; /* Centers the content */
+  padding: 20px;
+}
+
+/* Header Style */
+.header {
+  display: flex;
+  justify-content: flex-start;  /* Keeps title aligned to the left */
+  align-items: center;  /* Centers title vertically */
+  margin-bottom: 0px;  /* Adjust the bottom margin for spacing */
+}
+
+
 h1 {
   font-family: 'Bebas Neue', sans-serif;
   font-weight: 300;
   font-style: normal;
+  /*margin: 0;  /* No extra space around h1 */
+  /*padding-left: 20px;  /* Adds space between title and the left edge */
 }
 
 h2, h3, h4, h5, h6 {
@@ -37,19 +56,7 @@ h2, h3, h4, h5, h6 {
     width: 100%;
 }
 
-/* Header */
-.header {
-    margin-bottom: 0px;
-    text-align: left; /* Or 'left' if you prefer */
-}
 
-/* Main content area */
-.main-content {
-  width: 100%;
-  max-width: 800px; /* Ensures readable text width */
-  margin: 0 auto; /* Centers the content */
-  padding: 20px;
-}
 
 /* Horizontal separator */
 .horizontal-bar {
