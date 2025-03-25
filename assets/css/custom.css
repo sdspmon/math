@@ -29,8 +29,8 @@ h1 {
   font-family: 'Bebas Neue', sans-serif;
   font-weight: 300;
   font-style: normal;
-  /*margin: 0;  /* No extra space around h1 */
-  /*padding-left: 20px;  /* Adds space between title and the left edge */
+  margin: 0;  /* No extra space around h1 */
+  padding-left: 20px;  /* Adds space between title and the left edge */
 }
 
 h2, h3, h4, h5, h6 {
