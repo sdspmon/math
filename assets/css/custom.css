@@ -21,7 +21,7 @@ body {
   display: flex;
   justify-content: flex-start;  /* Keeps title aligned to the left */
   align-items: center;  /* Centers title vertically */
-  margin-bottom: 0px;  /* Adjust the bottom margin for spacing */
+  margin: 0 auto; /* Centers the content */
 }
 
 
