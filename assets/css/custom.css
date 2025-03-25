@@ -21,10 +21,10 @@ body {
 
 /* Header Style */
 .header {
-  display: flex;
-  justify-content: flex-start;  /* Keeps title aligned to the left */
-  text-align: left;
-  /*margin: 0 auto; /* Centers the content */
+  width: 100%;
+  max-width: 800px; /* Ensures readable text width */
+  margin: 0 auto; /* Centers the content */
+  padding: 20px;
 }
 
 h1 {
@@ -32,7 +32,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
   margin: 5px; 
-  text-align: left;
+  text-align: justify;
     padding-left: 5px;  /* Adds space between title and the left edge */
 }
 
