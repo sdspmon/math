@@ -23,8 +23,8 @@ body {
 .header {
   width: 100%;
   /*max-width: 800px; /* Ensures readable text width */
-  margin: 0 auto; /* Centers the content */
-  padding: 20px;
+  margin: 20px auto; /* Centers the content */
+  padding: 0px;
 }
 
 h1 {
