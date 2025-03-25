@@ -1,19 +1,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ page.title | escape }} | {{ site.title | escape }}</title>
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap">
-<link href="https://fonts.googleapis.com/css2?family=Prompt&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 <meta name="description" content="{{ page.excerpt | strip_html | escape }}">
 <meta name="author" content="{{ site.author }}">
+<title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Prompt&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap">
+
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 <!-- MathJax configuration -->
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
