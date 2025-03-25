@@ -10,9 +10,8 @@ body {
 
 h1 {
   font-family: 'Bebas Neue', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
-  text-align: left; /* Or 'left' if you prefer */
 }
 
 h2, h3, h4, h5, h6 {
@@ -41,6 +40,7 @@ h2, h3, h4, h5, h6 {
 /* Header */
 .header {
     margin-bottom: 0px;
+    text-align: left; /* Or 'left' if you prefer */
 }
 
 /* Main content area */
