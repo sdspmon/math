@@ -9,6 +9,6 @@ title: "Projects"
 {% if project.url != '/projects/index/' %}
 ## {{ project.title }}
 {{ project.content }}
-[More]({{ project.url | relative_url }})
+[More]({{ project.url }})
 {% endif %}
 {% endfor %}
