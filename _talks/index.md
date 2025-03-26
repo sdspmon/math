@@ -8,6 +8,6 @@ title: "Talks"
 {% if talk.title != 'Talks' %}
 ## {{ talk.title }}
 {{ talk.content }}
-[More]({{ talk.url | relative_url }})
+[More]({{ talk.url }})
 {% endif %}
 {% endfor %}
