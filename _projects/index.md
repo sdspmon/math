@@ -6,7 +6,7 @@ title: "Projects"
 # Projects
 
 {% for project in site.projects %}
-{% if project.url != '/projects/index/' %}
+{% if project.title != 'Projects' %}
 ## {{ project.title }}
 {{ project.content }}
 [More]({{ project.url }})
