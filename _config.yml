@@ -1,8 +1,8 @@
 title: "Sophie d'Espalungue"
 author: "Sophie d'Espalungue"
 description: "Sophie d'Espalungue | Personal Website"
+url: "https://www.sophie.d.espalungue.xyz"
 baseurl: "/math"
-url: "https://sdspmon.github.io"
 javascript_enabled: true
 plugins:
   - jekyll-relative-links
