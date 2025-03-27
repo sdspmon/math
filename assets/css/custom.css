@@ -46,6 +46,7 @@
 /* Header Style */
 .header {
     width: 100%;
+    height: min-content;
     position: fixed;
     top: 10px;
     left: 10px;
