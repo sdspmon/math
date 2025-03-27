@@ -25,6 +25,8 @@
     max-width: 800px;
     padding: 20px;
     position: relative;
+    flex-shrink: 0;
+    box-sizing: border-box;
 }
 /* Style de contenu générique */
 .content {
