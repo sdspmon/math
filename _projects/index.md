@@ -3,8 +3,6 @@ layout: main
 title: "Projects"
 ---
 
-# Projects
-
 {% for project in site.projects %}
 {% if project.title != 'Projects' %}
 ## {{ project.title }}

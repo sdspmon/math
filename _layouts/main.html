@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
-    <div class="container">
-      <div class="header">
-        {% include header.html %}
-        <div class="nav">
-        {% include nav.html %}
-        </div>
-        <div class="horizontal-bar"></div>
-      </div>
-      <div class="main-content">
-        <div class="content">
-          {{ content }}
-        </div>
+
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+  <div class="container">
+    {% include header.html %}
+    <aside class="sidebar"> 
+      {% include sidebar.html %}
+    </aside>
+    <div class="main-content">
+      <div class="content">
+        {{ content }}
       </div>
     </div>
-  </body>
+  </div>
+</body>
+
 </html>

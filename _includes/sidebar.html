@@ -1,0 +1,8 @@
+<div class="sidebar">
+    {% if page.title != 'Home' %}
+      <header class="sidebar-header">
+        <h1>{{ page.title }}</h1>
+      </header>
+    {% endif %}
+    {% include sidebar-nav.html %}
+  </div>

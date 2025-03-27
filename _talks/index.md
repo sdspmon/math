@@ -2,7 +2,6 @@
 layout: main
 title: "Talks" 
 ---
-# Talks
 
 {% for talk in site.talks %}
 {% if talk.title != 'Talks' %}
