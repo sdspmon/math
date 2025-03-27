@@ -18,6 +18,7 @@
     top:100px;
     display: flex;
     flex-direction: row; 
+    align-items: stretch; 
 }
 /* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
 .main-content {
@@ -61,7 +62,7 @@
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
-    padding: 5px 5px;/* Espace autour du titre */
+    padding: 10px 10px;/* Espace autour du titre */
   }
 
 /* Titre du site */
@@ -84,7 +85,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    /* gap: 15px; */
+    gap: 15px;
 }
 
 /* Style des liens de navigation */
