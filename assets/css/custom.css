@@ -51,8 +51,8 @@
     width: 100%;
     height: min-content;
     position: fixed;
-    top: 10px;
-    left: 10px;
+    top: 0px;
+    left: 0px;
     background-color: #fff;
 }
 /* Style pour le sidebar-header */
@@ -70,6 +70,8 @@
     font-size: 26px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
+    padding-left: 20px;
+    padding-top: 1px;
 }
   
 
