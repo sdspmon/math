@@ -15,7 +15,7 @@
 /* Contenant en colonnes */
 .side-content {
     position: relative;
-    top:200px
+    top:200px;
     display: flex;
     flex-direction: row; 
 }
