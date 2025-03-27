@@ -1,5 +1,5 @@
 ---
-layout: project
-title: "Project 1"
+layout: work
+title: "Work 1"
 ---
-Description of some project 
+Description of some work 

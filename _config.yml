@@ -16,9 +16,9 @@ kramdown:
   mathjax: 
     cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML
 collections:
-  projects:
+  works:
     output: true
-    permalink: /math/projects/:name/
+    permalink: /math/works/:name/
   talks:
     output: true
     permalink: /math/talks/:name/

@@ -1,12 +1,12 @@
 ---
 layout: main
-title: "Projects"
+title: "Works"
 ---
 
-{% for project in site.projects %}
-{% if project.title != 'Projects' %}
-## {{ project.title }}
-{{ project.content }}
-[More]({{ project.url }})
+{% for work in site.works %}
+{% if work.title != 'Works' %}
+## {{ work.title }}
+{{ work.content }}
+[More]({{ work.url }})
 {% endif %}
 {% endfor %}
