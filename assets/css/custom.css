@@ -15,39 +15,38 @@
 /* Colonne de navigation */
 .sidebar {
     width: 250px;
-    /* height: 100vh; */ /* Prend toute la hauteur de la fenêtre */
     position: fixed;
-    left: 20px; /* Espacement depuis le bord gauche */
     top: 200px;
     padding: 20px;
     box-sizing: border-box;
 }
+/* Header Style */
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    background-color: #fff;
+}
 /* Style pour le sidebar-header */
 .sidebar-header h1 {
+    position: fixed 
     font-size: 48px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
-    padding: 5px 10px;/* Espace autour du titre */
-    /* margin-top: 200px; */
+    padding: 5px 5px;/* Espace autour du titre */
   }
-  
-/* Header Style */
-.header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #fff;
-    padding: 5px 10px;
-}
 
 /* Titre du site */
 .header h1 {
     font-size: 26px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
+    padding: 5px 5px;
 }
+  
 
 /* Barre de navigation */
 .nav {
@@ -95,7 +94,7 @@
 }
 /* Style de contenu générique */
 .content {
-    padding: 20px;
+    padding: 5px;
 }
 
 body {
