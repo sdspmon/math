@@ -15,12 +15,10 @@
 /* Colonne de navigation */
 .sidebar {
     width: 250px;
-    height: 100vh; /* Prend toute la hauteur de la fenêtre */
-    color: #333;
-    /* background-color: #fff; */
+    /* height: 100vh; */ /* Prend toute la hauteur de la fenêtre */
     position: fixed;
     left: 20px; /* Espacement depuis le bord gauche */
-    top: 0;
+    top: 200px;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -40,10 +38,8 @@
     top: 0;
     left: 0;
     width: 100%;
-    /* background-color: white;  *//* Fond blanc pour ne pas superposer le texte en scrollant */
     background-color: #fff;
     padding: 10px 5px;
-    /* z-index: 1000; */ /* Assure qu'il passe au-dessus du contenu */
 }
 
 /* Titre du site */
@@ -89,7 +85,7 @@
 
  /* Barre horizontale */
 .horizontal-bar {
-    width: calc(100% - 40px); /* Petite marge sur les côtés */
+    width: 100%; /* Petite marge sur les côtés */
     height: 1px;
     background-color: currentColor;
     opacity: 0.6;
@@ -103,11 +99,10 @@
     justify-content: center;
     padding: 20px;
     margin: 0 auto; 
-    margin-top: 300px;
+    margin-top: 200px;
 }
 /* Style de contenu générique */
 .content {
-    background-color: #fff;
     padding: 20px;
 }
 
