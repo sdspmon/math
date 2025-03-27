@@ -22,7 +22,7 @@
 }
 /* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
 .main-content {
-    left: auto;
+    left: 250px;
     max-width: 800px;
     padding: 20px;
     position: relative;
