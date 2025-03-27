@@ -42,7 +42,6 @@
     /* background-color: white;  *//* Fond blanc pour ne pas superposer le texte en scrollant */
     background-color: #fff;
     padding: 10px 20px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Ombre subtile */
     z-index: 1000; /* Assure qu'il passe au-dessus du contenu */
 }
 
@@ -101,7 +100,6 @@
 
 /* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
 .main-content {
-    margin-top: 100px; /* Ajuste selon la hauteur du header */
     max-width: 800px;
     padding: 20px;
 }
