@@ -89,6 +89,15 @@
     margin: 0 auto; 
     margin-top: 200px;
 }
+/* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
+.side-content {
+    max-width: 800px;
+    margin: 0 auto; 
+    margin-top: 200px;
+    display: flex;
+    flex-direction: line; /* Alignement de haut en bas des éléments */
+    align-items: stretch; /* Les éléments contenus s'étirent pour remplir la largueur */
+}
 /* Style de contenu générique */
 .content {
     padding: 5px;
