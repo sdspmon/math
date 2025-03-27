@@ -29,7 +29,7 @@
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
     padding: 5px 10px;/* Espace autour du titre */
-    margin-top: 200px;
+    /* margin-top: 200px; */
   }
   
 /* Header Style */
