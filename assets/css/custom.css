@@ -12,13 +12,7 @@
     align-items: stretch; /* Les éléments contenus s'étirent pour remplir la largueur */
     width: 100%; /* Largeur du container */
 }
-/* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
-.main-content {
-    max-width: 800px;
-    padding: 20px;
-    margin: 0 auto; 
-}
-
+/* Contenant en colonnes */
 .side-content {
     margin: 0 auto; 
     margin-top: 200px;
@@ -26,12 +20,17 @@
     flex-direction: row; 
     align-items: normal;
 }
+/* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
+.main-content {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto; 
+}
 /* Style de contenu générique */
 .content {
     padding: 5px;
     justify-content: left;
 }
-
 /* Colonne de navigation */
 .sidebar {
     width: 250px;
@@ -45,7 +44,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    padding: 20px;
+    padding: 5px;
     background-color: #fff;
 }
 /* Style pour le sidebar-header */
