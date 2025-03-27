@@ -31,7 +31,7 @@
 }
 /* Style pour le sidebar-header */
 .sidebar-header h1 {
-    position: fixed 
+    position: fixed; 
     font-size: 48px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
