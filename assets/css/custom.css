@@ -17,7 +17,7 @@
     width: 250px;
     height: 100vh; /* Prend toute la hauteur de la fenêtre */
     color: #333;
-    background-color: #fff;
+    /* background-color: #fff; */
     position: fixed;
     left: 20px; /* Espacement depuis le bord gauche */
     top: 0;
@@ -31,7 +31,7 @@
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
     padding: 10px 0; /* Espace autour du titre */
-    margin-top: 100px;
+    margin-top: 300px;
   }
   
 /* Header Style */
