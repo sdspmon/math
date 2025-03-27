@@ -1,5 +1,5 @@
 ---
 layout: work
-title: "Work 1"
+title: "Category Theory"
 ---
-Description of some work 
+Formal category theory etc 

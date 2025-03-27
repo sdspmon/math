@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Another Work"
+title: "Algebraic Topology"
 ---
-And the associated description 
-### With a section
+Description
+### Operads
