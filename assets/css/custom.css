@@ -95,11 +95,11 @@
     margin-top: 200px;
     display: flex;
     flex-direction: row; 
-    align-items: stretch;
 }
 /* Style de contenu générique */
 .content {
     padding: 5px;
+    justify-content: left;
 }
 
 body {
