@@ -85,7 +85,6 @@
 /* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
 .main-content {
     max-width: 800px;
-    justify-content: left;
     padding: 20px;
     margin: 0 auto; 
     margin-top: 200px;
