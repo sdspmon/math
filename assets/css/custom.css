@@ -28,8 +28,8 @@
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
-    padding: 10px 0; /* Espace autour du titre */
-    margin-top: 300px;
+    padding: 5px 10px;/* Espace autour du titre */
+    margin-top: 200px;
   }
   
 /* Header Style */
@@ -39,7 +39,7 @@
     left: 0;
     width: 100%;
     background-color: #fff;
-    padding: 10px 5px;
+    padding: 5px 10px;
 }
 
 /* Titre du site */
@@ -63,11 +63,6 @@
     flex-wrap: wrap;
     gap: 15px;
 }
-/* .nav .top-nav {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-} */
 
 /* Style des liens de navigation */
 .nav-item {
@@ -79,9 +74,6 @@
 .nav-item:hover {
     font-weight: bold;
 }
-/* .nav .nav-item {
-    margin: 2px 10px;
-} */
 
  /* Barre horizontale */
 .horizontal-bar {
