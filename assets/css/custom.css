@@ -16,8 +16,8 @@
 .sidebar {
     width: 250px;
     height: 100vh; /* Prend toute la hauteur de la fenêtre */
-    background-color: #333;
-    color: white;
+    color: #333;
+    background-color: #fff;
     position: fixed;
     left: 20px; /* Espacement depuis le bord gauche */
     top: 0;
@@ -39,8 +39,8 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: white; /* Fond blanc pour ne pas superposer le texte en scrollant */
-    /* background-color: #fff; */
+    /* background-color: white;  *//* Fond blanc pour ne pas superposer le texte en scrollant */
+    background-color: #fff;
     padding: 10px 20px;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Ombre subtile */
     z-index: 1000; /* Assure qu'il passe au-dessus du contenu */
