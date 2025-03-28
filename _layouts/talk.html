@@ -18,8 +18,9 @@
       <div class="main-content">
         <h1> {{ page.title }} </h1>
         <h2> {{page.subtitle}} </h2>
+        <div> <b> Tags: </b> {{ page.tags }} </div>
         <div> <b>Abstract:</b>{{ page.abstract }} </div>
-        <a href="{{ page.video }}"> Video </a><a href="{{talk.slides}}" > Slides </a>
+        {% if page.video != "" %}<a href="{{ page.video }}"> Video </a> {% endif %}{% if page.slides !=""} <a href="{{talk.slides}}" > Slides </a>{% endif %}
         <div class="content">
           {{ content }}
         </div>

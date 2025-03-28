@@ -9,6 +9,6 @@ title: "Talks"
 ### {{ talk.subtitle }}
 **Abstract:**
 {{ talk.abstract }}
-[More]({{ talk.url }}) [Video]({{ talk.video }}) [Slides]({{ talk.slides }})
+[More]({{ talk.url }}) {% if talk.video !="" } [Video]({{ talk.video }}) {% endif %} {%if page.slides != ""} [Slides]({{ talk.slides }}){% endif %}
 {% endif %}
 {% endfor %}
