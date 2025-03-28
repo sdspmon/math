@@ -1,0 +1,31 @@
+---
+layout: main
+title: "Tag: {{ page.tag }}"
+---
+
+<h1>Tag: {{ page.tag }}</h1>
+
+<h2> Works </h2> 
+
+<ul>
+    {% for work in site.works %}
+      {% if work.tags contains page.tag %}
+        <li>
+          <a href="{{ work.url }}">{{ work.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+<h2>Talks</h2>
+
+<ul>
+  {% for talk in site.talks %}
+    {% if talk.tags contains page.tag %}
+      <li>
+        <a href="{{ talk.url }}">{{ talk.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+

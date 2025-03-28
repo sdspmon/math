@@ -114,6 +114,31 @@
     margin: 0 auto;
 }
 
+/* Tags */
+.sidebar-nav h2 {
+    font-size: 18px;
+    font-weight: bolder;
+    text-decoration-color: darkred;
+    margin-bottom: 10px;
+}
+
+.sidebar-nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-nav li {
+    margin: 5px 0;
+}
+
+.sidebar-nav a {
+    text-decoration: none;
+}
+
+.sidebar-nav a:hover {
+    text-decoration: underline;
+}
+/* Fin tags */
 
 body {
     font-family: 'Overpass', sans-serif;
