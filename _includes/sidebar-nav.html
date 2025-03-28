@@ -1,0 +1,19 @@
+<b> Mail: </b> myname@espalungue.xyz 
+<nav class="sidebar-nav">
+    <h2>Tags</h2>
+    <ul>
+      {% assign all_tags = "" | split: "," %}
+      {% for talk in site.talks %}
+        {% for tag in talk.tags %}
+          {% unless all_tags contains tag %}
+            {% assign all_tags = all_tags | push: tag %}
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+      
+      {% for tag in all_tags %}
+        <li><a href="/tags/{{ tag | downcase | replace: ' ', '-' }}">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  
