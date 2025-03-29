@@ -27,3 +27,6 @@ collections:
   talks:
     output: true
     permalink: /math/talks/:name/
+  tags:
+    output: true
+    permalink: /math/tags/:name
