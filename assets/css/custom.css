@@ -67,7 +67,7 @@
     padding: 10px 10px;/* Espace autour du titre */
   }
 .sidebar-info {
-    position: fixed; 
+    position: relative; 
     flex-direction: column;
     top: 190px;
     padding: 10px 10px;/* Espace */
