@@ -62,6 +62,7 @@
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
+    margin-bottom: auto;
     padding: 10px 10px;/* Espace autour du titre */
   }
 
