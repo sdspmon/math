@@ -1,30 +1,22 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
+<head>
+  {% include head.html %}
+</head>
 
-<h1>{{ page.tag }}</h1>
+<body>
+  <div class="container">
+    <div> {% include header.html %} </div>
+    <div class="side-content">
+      <div> {% include sidebar.html %} </div>
+      <div class="main-content">
+          <div class="content">
+            {{ content }}
+          </div>
+      </div>
+    </div>
+  </div>
+</body>
 
-<h2> Works </h2> 
-
-<ul>
-    {% for work in site.works %}
-      {% if work.tags contains page.tag %}
-        <li>
-          <a href="{{ work.url }}">{{ work.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-<h2>Talks</h2>
-
-<ul>
-  {% for talk in site.talks %}
-    {% if talk.tags contains page.tag %}
-      <li>
-        <a href="{{ talk.url }}">{{ talk.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
- -->
+</html>
