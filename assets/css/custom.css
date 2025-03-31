@@ -69,7 +69,7 @@
     position: fixed; 
     flex-direction: column;
     top: 90px;
-    padding: 10px 10px;/* Espace autour du titre */
+    padding: 10px 10px;/* Espace */
   }
 
 /* Titre du site */
