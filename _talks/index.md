@@ -7,16 +7,14 @@ title: "Talks"
 
     {% if talk.title != 'Talks' %}
 
-## {{ talk.title }}
+        ## {{ talk.title }}
 
-### {{ talk.subtitle }}
+        ### {{ talk.subtitle }}
 
-**Abstract:**
-{{ talk.abstract }}
-[More]({{ talk.url }}) 
-{% if talk.video %} [Video]({{ talk.video }}) {% endif %} 
-{% if talk.slides %} [Slides]({{ talk.slides }}){% endif %}
-
-{% endif %}
-
+        **Abstract:**
+        {{ talk.abstract }}
+        [More]({{ talk.url }}) 
+        {% if talk.video %} [Video]({{ talk.video }}) {% endif %} 
+        {% if talk.slides %} [Slides]({{ talk.slides }}){% endif %}
+    {% endif %}
 {% endfor %}
