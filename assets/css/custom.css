@@ -69,7 +69,7 @@
 .sidebar-info {
     position: fixed; 
     flex-direction: column;
-    top: 90px;
+    top: 190px;
     padding: 10px 10px;/* Espace */
   }
 
