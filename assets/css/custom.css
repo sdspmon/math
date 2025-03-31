@@ -217,6 +217,16 @@ img {
     margin: 1em auto;
 }
 
+.photo {
+    width: 120px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px solid black;
+}
+
 /* Horizontal rules */
 hr {
     border: 0;
