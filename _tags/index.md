@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: main
 title: "Tags" 
 ---
@@ -7,4 +7,4 @@ title: "Tags"
 {% if talk.title != 'Tags' %}
 - [{{ tag.title }}]( {{tag.url}} )
 {% endif %}
-{% endfor %}
+{% endfor %} -->

@@ -8,8 +8,6 @@ plugins:
   - jekyll-relative-links
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-archives
 
 relative_links:
   enabled: true
@@ -27,6 +25,3 @@ collections:
   talks:
     output: true
     permalink: /math/talks/:name/
-  tags:
-    output: true
-    permalink: /math/tags/:name
