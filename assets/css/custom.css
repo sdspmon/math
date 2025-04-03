@@ -33,7 +33,7 @@
 .content {
     padding: 5px;
     text-align: justify;
-    justify-content: left;
+    justify-content: center;
 }
 /* Colonne de navigation */
 .sidebar {
@@ -59,6 +59,7 @@
 /* Style pour le sidebar-header */
 .sidebar-header h1 {
     position: fixed; 
+    text-align: center;
     font-size: 56px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
