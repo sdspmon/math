@@ -223,8 +223,8 @@ th {
 } */
 
 .photo {
-    width: 160px;
-    float: left;
+    width: 120px;
+    float: center;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
