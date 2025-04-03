@@ -42,7 +42,7 @@
     left:0;
     padding: 20px;
     text-align: justify;
-    justify-content: left;
+    justify-content: center;
     flex-direction: column;
     flex: 1 1 0;
     box-sizing: border-box;
