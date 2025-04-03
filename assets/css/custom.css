@@ -83,45 +83,6 @@
     padding-top: 1px;
     line-height: 1;
 }
-  
-
-/* Barre de navigation */
-.nav {
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    margin-top: 0px; /* Espacement entre le titre et les onglets */
-}
-/* Barre de navigation */
-.top-nav {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 15px;
-}
-
-/* Style des liens de navigation */
-.nav-item {
-    text-decoration: none;
-    color: black;
-    font-size: 16px;
-    padding-left: 8px;
-    padding-right: 8px;
-    padding-top: 0px;
-    padding-bottom: 4px;
-}
-.nav-item:hover {
-    font-weight: bold;
-}
-
- /* Barre horizontale */
-.horizontal-bar {
-    width: calc(100%-20px); 
-    height: 1px;
-    background-color: currentColor;
-    opacity: 0.6;
-    margin: 0 auto;
-}
 
 
 body {
@@ -241,4 +202,65 @@ hr {
     height: 1px;
     background: #ddd;
     margin: 20px 0;
+}
+
+
+/* Clean */
+
+/* Header Site */
+
+.fixed-header {
+    z-index: 1; /* Par dessus */
+    background-color: #fff; /* Cache */
+    position: fixed; /* Par rapport à la fenêtre */
+    top: 0; 
+    margin: 0 auto; /* Centré gauche droite, Tout en haut */
+    width: 100%;
+}
+
+.fixed-header h1 {
+    font-size: 26px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    padding-left: 20px;
+    padding-top: 1px;
+    line-height: 1;
+}
+
+ /* Barre horizontale */
+ .horizontal-bar {
+    width: calc(100%-20px); 
+    height: 1px;
+    background-color: currentColor;
+    opacity: 0.6;
+    margin: 0 auto;
+}
+
+/* Barre de navigation */
+.nav {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-top: 0px; /* Espacement entre le titre et les onglets */
+}
+/* Barre de navigation */
+.top-nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+/* Style des liens de navigation */
+.nav-item {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 0px;
+    padding-bottom: 4px;
+}
+.nav-item:hover {
+    font-weight: bold;
 }
