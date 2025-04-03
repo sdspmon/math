@@ -206,7 +206,7 @@ hr {
     height: 1px;
     background-color: currentColor;
     opacity: 0.6;
-    margin: 0 auto;
+    margin: 0 0;
 }
 
 /* Barre de navigation */
