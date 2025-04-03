@@ -244,8 +244,10 @@ body {
     font-size: 16px; 
     line-height: 1.6;
     display:flex;
+    top: 0;
     text-align: justify;
     justify-content: center;
+    width: 100%;
     color: #333;
     background-color: #fff;
     padding-left: 20px;
@@ -264,7 +266,7 @@ body {
     margin: 0; /* Évite l'ajout de marges automatiques */
     padding: 10px 10px;/* Espace autour du titre */
   }
-  
+
 /* Sidebar Home */
 .sidebar-info {
     position: relative; 
