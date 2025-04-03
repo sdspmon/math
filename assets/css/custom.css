@@ -56,23 +56,7 @@
     left: 0px;
     background-color: #fff;
 }
-/* Style pour le sidebar-header */
-.sidebar-header h1 {
-    position: fixed; 
-    text-align: center;
-    font-size: 56px;
-    font-family: 'Bebas Neue', sans-serif;
-    font-weight: 400;
-    margin: 0; /* Évite l'ajout de marges automatiques */
-    padding: 10px 10px;/* Espace autour du titre */
-  }
-.sidebar-info {
-    position: relative; 
-    text-align: center;
-    flex-direction: column;
-    top: 100px;
-    padding: 10px 10px;/* Espace */
-  }
+
 
 /* Titre du site */
 .header h1 {
@@ -267,3 +251,25 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+/* SIDEBAR */
+
+/* Style pour le sidebar-header */
+.sidebar-header h1 {
+    position: fixed; 
+    text-align: center;
+    font-size: 56px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    margin: 0; /* Évite l'ajout de marges automatiques */
+    padding: 10px 10px;/* Espace autour du titre */
+  }
+  
+/* Sidebar Home */
+.sidebar-info {
+    position: relative; 
+    text-align: center;
+    flex-direction: column;
+    top: 100px;
+    padding: 10px 10px;/* Espace */
+  }
