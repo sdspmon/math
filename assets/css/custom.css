@@ -248,7 +248,6 @@ body {
 
 /* Style pour le sidebar-header */
 .sidebar-header {
-    width: 100%;
     position: fixed; 
     text-align: center;
 }
