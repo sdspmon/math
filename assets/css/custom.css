@@ -172,7 +172,7 @@ hr {
 /* Header Site */
 
 .fixed-header {
-    z-index: 1; /* Par dessus */
+    z-index: 2; /* Par dessus */
     background-color: #fff; /* Cache */
     position: fixed; /* Par rapport à la fenêtre */
     top: 0; 
