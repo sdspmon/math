@@ -281,6 +281,7 @@ body {
     align-items: flex-start; /* Commence en haut */
     flex-direction: row; /* Affichage côte à côte */
     top: 100px;
+    row-gap: 10px;
 }
 
 .sidebar {
