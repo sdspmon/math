@@ -59,17 +59,16 @@
 /* Style pour le sidebar-header */
 .sidebar-header h1 {
     position: fixed; 
-    font-size: 48px;
+    font-size: 56px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
     margin: 0; /* Évite l'ajout de marges automatiques */
-    margin-bottom: 60px;
     padding: 10px 10px;/* Espace autour du titre */
   }
 .sidebar-info {
     position: relative; 
     flex-direction: column;
-    top: 190px;
+    top: 100px;
     padding: 10px 10px;/* Espace */
   }
 
@@ -162,8 +161,8 @@ p {
 
 /* Links */
 a {
-    text-decoration: underline;
-    color: inherit; /* Keeps the text color the same as surrounding text */
+    text-decoration: none;
+    color: darkred; /* Keeps the text color the same as surrounding text */
 }
 
 a:hover {

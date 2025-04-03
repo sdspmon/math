@@ -1,0 +1,12 @@
+.fixed-header {
+    z-index: 1; /* Par dessus */
+    background-color: #fff; /* Cache */
+    position: fixed; /* Par rapport à la fenêtre */
+    top: 0;
+    margin: 0 auto; /* Centré gauche droite, Tout en haut */
+    width: 100%;
+}
+
+.content-column {
+    flex-direction: row; /* Affichage côte à côte */
+}
