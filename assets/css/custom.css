@@ -247,9 +247,12 @@ body {
 /* SIDEBAR */
 
 /* Style pour le sidebar-header */
-.sidebar-header h1 {
+.sidebar-header {
+    width: 100%;
     position: fixed; 
     text-align: center;
+}
+.sidebar-header h1 {
     font-size: 56px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
