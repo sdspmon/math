@@ -275,3 +275,16 @@ body {
     top: 100px;
     padding: 10px 10px;/* Espace */
   }
+
+.content-sided {
+    display: flex;
+    align-items: flex-start; /* Commence en haut */
+    flex-direction: row; /* Affichage côte à côte */
+}
+
+.sidebar {
+    z-index: 1; /* Par dessus */
+    background-color: #fff; /* Cache */
+    margin: 0 auto; /* Centré | Tout en haut */
+    max-width: 25%;
+}

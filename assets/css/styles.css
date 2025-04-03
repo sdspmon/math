@@ -25,7 +25,6 @@
 .sidebar {
     z-index: 1; /* Par dessus */
     background-color: #fff; /* Cache */
-    flex: ;
     margin: 0 auto; /* Centré | Tout en haut */
     max-width: 25%;
 }
