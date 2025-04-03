@@ -68,6 +68,7 @@
   }
 .sidebar-info {
     position: relative; 
+    text-align: center;
     flex-direction: column;
     top: 100px;
     padding: 10px 10px;/* Espace */
