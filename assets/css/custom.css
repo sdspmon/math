@@ -248,7 +248,7 @@ body {
 
 /* Style pour le sidebar-header */
 .sidebar-header {
-    position: fixed; 
+    position: fixed;
     text-align: center;
 }
 .sidebar-header h1 {
@@ -283,7 +283,7 @@ body {
     padding: 20px;
     text-align: center;
     justify-content: center;
-    align-items: stretch;
+    align-items: center;
     flex-direction: column;
     flex: 1 1 0;
     box-sizing: border-box;
