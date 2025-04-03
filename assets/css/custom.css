@@ -22,7 +22,6 @@
 }
 /* Contenu principal: mise en page (décalé pour ne pas être caché sous le header fixe) */
 .main-content {
-    left: 250px;
     max-width: 800px;
     padding: 20px;
     position: relative;
@@ -263,7 +262,6 @@ body {
     position: relative; 
     text-align: center;
     flex-direction: column;
-    top: 100px;
     padding: 10px 10px;/* Espace */
   }
 
@@ -279,7 +277,6 @@ body {
     z-index: 1; /* Par dessus */
     background-color: #fff; /* Cache */
     margin: 0 auto; /* Centré | Tout en haut */
-    padding: 20px;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -288,5 +285,4 @@ body {
     box-sizing: border-box;
     position: fixed;
     left:0;
-    width: 250px;
 }
