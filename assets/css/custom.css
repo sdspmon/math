@@ -83,7 +83,7 @@ h1, h2 {
 h3, h4, h5, h6 {
     font-family: 'Overpass', sans-serif;
     font-weight: 600;
-    font-style: normal;
+    font-style: bold;
     margin-top: 1.2em;
     margin-bottom: 0.6em;
   }
