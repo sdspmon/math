@@ -72,12 +72,19 @@ JetBrains Mono – Plus condensé, avec des formes nettes et modernes.
 DM Mono – Plus géométrique, avec un aspect plus rigide et affirmé.
 PT Mono – */
 
-h1, h2,h3, h4, h5, h6 {
+h1, h2 {
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
     font-style: normal;
       margin-top: 1.2em;
       margin-bottom: 0.6em;
+  }
+h3, h4, h5, h6 {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
   }
 /* Paragraphs */
 p {

@@ -8,6 +8,7 @@ I am a French mathematician currently living in Paris. My work stems from algebr
 
 ### For Algebraic Topologists
 My work explores the foundations of mathematics and logic, developing a novel framework that avoids traditional formal systems. The focus is on a hierarchy of types and mutual definitions of objects, providing a new way of understanding mathematical structures.
+#### Just some title
 Explore my papers and the technical details in the sections below.
 
 ### For Logicians
