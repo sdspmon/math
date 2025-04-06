@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "Works"
+title: "Research"
 ---
 
 {% for work in site.works %}
