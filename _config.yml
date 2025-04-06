@@ -22,3 +22,6 @@ collections:
   talks:
     output: true
     permalink: /math/talks/:name/
+  faq:
+    output: true
+    permalink: /math/faq/:name/
