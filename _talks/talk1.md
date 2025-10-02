@@ -6,4 +6,3 @@ abstract: "The formalization of mathematical language traditionally relies on un
 video: "https://www.youtube.com/watch?v=F5RW-3stMlI"
 tags: Foundations, Category Theory, Language
 ---
-(Some more precise description)
