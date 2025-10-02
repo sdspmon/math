@@ -13,10 +13,10 @@ My research lies at the interface of category theory, logic, and algebraic topol
 
 ## Talks 
 
-- Towards an internal construction of meaning [abstract](https://sdspmon.github.io/talks/internalconstruction) [slides](https://github.com/user-attachments/files/22466240/InternalConstruction.pdf)
-- Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products
-- Building all of mathematics without axioms: an $$n$$-categorical manifesto
-- Generalised operads for multi-dimensional algebra
-- A tensor product for the interchange of categorical operads
-- Boardman-Vogt tensor product of operads and interchange of $$E_n$$-structures
-- Internal pseudomonoidal structures and Day convolution in a monoidal $$2$$-category
+- Towards an internal construction of meaning [abstract]() [slides]() [video]()
+- Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products  [abstract]() [slides CT2025]() [slides SIC]()
+- Building all of mathematics without axioms: an $$n$$-categorical manifesto  [abstract]() [slides]() [video]()
+- Generalised operads for multi-dimensional algebra  [abstract]() 
+- A tensor product for the interchange of categorical operads  [abstract]() 
+- Boardman-Vogt tensor product of operads and interchange of $$E_n$$-structures  [abstract]() 
+- Internal pseudomonoidal structures and Day convolution in a monoidal $$2$$-category  [abstract]()
