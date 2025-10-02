@@ -14,7 +14,7 @@ My research lies at the interface of category theory, logic, and algebraic topol
 ## Talks 
 
 - Towards an internal construction of meaning [abstract]() [slides]() [video]()
-- Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products [more CT2025]((https://www.sophie.d.espalungue.xyz/math/talks/CT2025/) [more SIC]()
+- Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products [more CT2025](https://www.sophie.d.espalungue.xyz/math/talks/CT2025/) [more SIC]()
 - Building all of mathematics without axioms: an $$n$$-categorical manifesto  [more](https://www.sophie.d.espalungue.xyz/math/talks/nyct/) 
 - Generalised operads for multi-dimensional algebra  [abstract]() 
 - A tensor product for the interchange of categorical operads  [abstract]() 
