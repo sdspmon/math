@@ -12,7 +12,7 @@ My research lies at the interface of category theory, logic, and algebraic topol
 
 ## Publications 
 
--  [Operads in 2-categories and models of structure interchange](https://theses.hal.science/tel-04617115)
+-  PhD Thesis: [Operads in 2-categories and models of structure interchange](https://theses.hal.science/tel-04617115)
   
 *Currently turning the thesis results into articles.*
 
