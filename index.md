@@ -18,7 +18,7 @@ My research lies at the interface of category theory, logic, and algebraic topol
 
 ## Talks 
 
-- Towards an internal construction of meaning, *Synthetic mathematics, logic-affine computation and efficient proof systems* [ [abstract](https://www.cirm-math.fr/RepOrga/3377/Abstracts/SophieDespalungue.pdf) -- [slides]() -- [video](https://www.youtube.com/watch?v=qivGs4PLCYY)]
+- Towards an internal construction of meaning, *Synthetic mathematics, logic-affine computation and efficient proof systems*, CIRM, 09/2025 [ [abstract](https://www.cirm-math.fr/RepOrga/3377/Abstracts/SophieDespalungue.pdf) -- [slides]() -- [video](https://www.youtube.com/watch?v=qivGs4PLCYY)]
 - Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products [more CT2025](https://www.sophie.d.espalungue.xyz/math/talks/CT2025/) [more SIC]()
 - Building all of mathematics without axioms: an $$n$$-categorical manifesto  [more](https://www.sophie.d.espalungue.xyz/math/talks/nyct/) 
 - Generalised operads for multi-dimensional algebra  [abstract]() 
