@@ -19,9 +19,10 @@ My research lies at the interface of category theory, logic, and algebraic topol
 ## Talks 
 
 - Towards an internal construction of meaning, *Synthetic mathematics, logic-affine computation and efficient proof systems*, CIRM, 09/2025 [ [abstract](https://www.cirm-math.fr/RepOrga/3377/Abstracts/SophieDespalungue.pdf) -- [slides]() -- [video](https://www.youtube.com/watch?v=qivGs4PLCYY)]
-- Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products [more CT2025](https://www.sophie.d.espalungue.xyz/math/talks/CT2025/) [more SIC]()
-- Building all of mathematics without axioms: an $$n$$-categorical manifesto  [more](https://www.sophie.d.espalungue.xyz/math/talks/nyct/) 
-- Generalised operads for multi-dimensional algebra  [abstract]() 
+- Category Theory within a 2-category: internal enrichment, presheaf objects (and convolution products) [more](https://www.sophie.d.espalungue.xyz/math/talks/CT2025/)
+- Category Theory within a 2-category: internal enrichment, presheaf objects and convolution products, *Séminaire Itinérant de Catégories*, Lens, 06/2025 [ [abstract]() -- [slides]() ]
+- Building all of mathematics without axioms: an $$n$$-categorical manifesto  [abstract](https://www.sophie.d.espalungue.xyz/math/talks/nyct/) -- [slides]() -- [video](https://www.youtube.com/watch?v=F5RW-3stMlI)
+- Generalised operads for multi-dimensional algebra, *ALPE Seminar*, Montpellier, 03/2024  [abstract](https://www.math.univ-toulouse.fr/~rcampos/ALPE/2024-03.html) 
 - A tensor product for the interchange of categorical operads  [abstract]() 
 - Boardman-Vogt tensor product of operads and interchange of $$E_n$$-structures  [abstract]() 
 - Internal pseudomonoidal structures and Day convolution in a monoidal $$2$$-category  [abstract]()
