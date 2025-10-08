@@ -28,12 +28,13 @@
     flex: 2 1 0;
     box-sizing: border-box;
 }
-/* Style de contenu générique */
+/* Style de contenu générique. En fait plutot sur la page principale. padding-top: 100px pour que ce soit sous le header ;*/
 .content {
     max-width: 800px;
     padding: 5px;
     margin: 0 auto;
     text-align: justify;
+    padding-top:100px;
 }
 
 /* Header Style */
