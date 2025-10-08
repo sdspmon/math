@@ -6,7 +6,7 @@ I'm a postdoctoral researcher at Institut de Recherche en Informatique Fondament
 
 ## Contact 
 
-Institut de Recherche en Informatique Fondamentale -- Office 4029A
+**IRIF** Office 4029A
 
 despalungue @ irif . fr
 
