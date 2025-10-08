@@ -8,7 +8,7 @@ I'm a postdoctoral researcher at Institut de Recherche en Informatique Fondament
 
 **IRIF** Office 4029A
 
-despalungue @ irif . fr
+**Mail** despalungue @ irif . fr
 
 
 ## Research Interests 
