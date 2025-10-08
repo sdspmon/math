@@ -28,3 +28,10 @@
     margin: 0 auto; /* Centré | Tout en haut */
     max-width: 25%;
 }
+
+/* Style de contenu générique */
+.content {
+    padding: 5px;
+    text-align: justify;
+    justify-content: center;
+}
