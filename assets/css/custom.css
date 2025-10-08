@@ -31,10 +31,10 @@
 /* Style de contenu générique. En fait plutot sur la page principale. padding-top: 100px pour que ce soit sous le header ;*/
 .content {
     max-width: 800px;
-    padding: 5px;
+    padding: 10px;
     margin: 0 auto;
     text-align: justify;
-    padding-top: 110px;
+    padding-top: 100px;
 }
 
 /* Header Style */
