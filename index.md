@@ -8,15 +8,7 @@ I'm a postdoctoral researcher at Institut de Recherche en Informatique Fondament
 
 Institut de Recherche en Informatique Fondamentale
 
-Bâtiment Sophie Germain
-
-5 rue Thomas Mann 
-
-75013 Paris
-
-
 Office 4029A
-
 
 despalungue @ irif . fr
 
