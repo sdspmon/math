@@ -6,25 +6,22 @@ I'm a postdoctoral researcher at Institut de Recherche en Informatique Fondament
 
 ## Contact 
 
-Institut de Recherche en Informatique Fondamentale
-
-Office 4029A
+Institut de Recherche en Informatique Fondamentale -- Office 4029A
 
 despalungue @ irif . fr
 
 
 ## Research Interests 
 
-*Operads, Category Theory, $$E_n$$-Structures, Foundations of Mathematics*
+*Operads -- Category Theory -- $$E_n$$-Structures -- Foundations of Mathematics*
 
 My research lies at the interface of category theory, logic, and algebraic topology. The purpose of [my thesis](https://theses.hal.science/tel-04617115) was to construct cofibrant models of $$E_n$$-operads governing the structure of $$n$$-fold iterated monoidal categories. My work on internal structures suggested an approach to the formalisation of mathematical language, structured around the hierarchy of $$n$$-categories and supporting iterated internalisation. I am working to make this language logically rigorous, with the long-term aim of developing a proof assistant.
 
 ## Publications 
 
-*Currently turning the thesis results into articles.*
-
 -  PhD Thesis: [*Operads in 2-categories and models of structure interchange*](https://theses.hal.science/tel-04617115v1/document), 2024
 
+*Currently turning the thesis results into articles.*
 
 ## Talks 
 
