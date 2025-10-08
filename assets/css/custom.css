@@ -193,8 +193,7 @@ hr {
 .fixed-header {
     z-index: 2; /* Par dessus */
     background-color: #fff; /* Cache */
-    position: fixed; /* Par rapport à la fenêtre */
-    top: 10px; 
+    position: fixed; /* Par rapport à la fenêtre */ 
     margin: 0 auto; /* Centré gauche droite, Tout en haut */
     width: 100%;
 }
@@ -203,7 +202,7 @@ hr {
     font-size: 26px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
-    padding: 1px 0 0 0; /* seulement un petit padding en haut */
+    padding: 10px 0 0 0; /* petit padding en haut */
     margin: 0;
     line-height: 1;
     text-align: center;
