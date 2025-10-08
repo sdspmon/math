@@ -34,7 +34,7 @@
     padding: 5px;
     margin: 0 auto;
     text-align: justify;
-    padding-top: 120px;
+    padding-top: 110px;
 }
 
 /* Header Style */
@@ -260,6 +260,7 @@ body {
     width: 100%;
     color: #333;
     background-color: #fff;
+    padding: 20px;
 }
 /* Ajouter display:flex; à body si problème de sidebar */ 
 
