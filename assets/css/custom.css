@@ -30,7 +30,9 @@
 }
 /* Style de contenu générique */
 .content {
+    max-width: 800px;
     padding: 5px;
+    margin: 0 auto;
     text-align: justify;
     justify-content: center;
 }
