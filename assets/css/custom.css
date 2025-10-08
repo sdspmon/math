@@ -260,8 +260,6 @@ body {
     width: 100%;
     color: #333;
     background-color: #fff;
-    padding-left: 20px;
-    padding-right: 20px;
 }
 /* Ajouter display:flex; à body si problème de sidebar */ 
 
