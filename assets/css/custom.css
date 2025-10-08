@@ -194,7 +194,7 @@ hr {
     z-index: 2; /* Par dessus */
     background-color: #fff; /* Cache */
     position: fixed; /* Par rapport à la fenêtre */
-    top: 0; 
+    top: 10px; 
     margin: 0 auto; /* Centré gauche droite, Tout en haut */
     width: 100%;
 }
