@@ -2,7 +2,7 @@ title: "Sophie d'Espalungue"
 author: "Sophie d'Espalungue"
 description: "Sophie d'Espalungue | Maths Website"
 url: "https://sdspmon.github.io"
-baseurl: "/math"
+baseurl: ""
 javascript_enabled: true
 plugins:
   - jekyll-relative-links
@@ -18,13 +18,14 @@ kramdown:
 collections:
   works:
     output: true
-    permalink: /math/works/:name/
+    permalink: /works/:name/
   talks:
     output: true
-    permalink: /math/talks/:name/
+    permalink: /talks/:name/
   faq:
     output: true
-    permalink: /math/faq/:name/
+    permalink: /faq/:name/
+
 
 
 
